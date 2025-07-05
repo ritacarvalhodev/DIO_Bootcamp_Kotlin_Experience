@@ -1,8 +1,8 @@
   <div align="center">
 
-  <img height="200vh" src="Imagens/Logo-do-Bootcamp.webp">
+  <img src="Imagens/Logo-do-Bootcamp.webp" width="300">
 
-  # Bootcamp Kotlin Experience - [DIO](https://www.dio.me/en)
+  # Bootcamp Kotlin Experience - [DIO](https://www.dio.me/)
 
   </div>
 
