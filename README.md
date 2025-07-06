@@ -63,7 +63,6 @@
   - Se Preparando Para Uma Entrevista
 
   <br/>
-  <hr>
 
   <div align="center">
 
