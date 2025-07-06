@@ -1,6 +1,6 @@
   <div align="center">
 
-  <img src="Imagens/Logo-do-Bootcamp.webp" width="300">
+  <img src="imagens/logo-do-bootcamp.webp" width="300">
 
   # Bootcamp Kotlin Experience - [DIO](https://www.dio.me/)
 
@@ -63,6 +63,7 @@
   - Se Preparando Para Uma Entrevista
 
   <br/>
+  <hr>
 
   <div align="center">
 
